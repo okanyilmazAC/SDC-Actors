@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="802pt" height="938pt" viewBox="0.00 0.00 801.72 938.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 934.4)">
+<title>SDC_Network</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-934.4 797.7186,-934.4 797.7186,4 -4,4"/>
+<text text-anchor="middle" x="396.8593" y="-890.4" font-family="Times,serif" font-size="40.00" fill="#000000">Version - 31. March 2024</text>
+<!-- Manufacturers -->
+<g id="node1" class="node">
+<title>Manufacturers</title>
+<polygon fill="none" stroke="#000000" points="326.5,-665.4 326.5,-683.4 620.5,-683.4 620.5,-665.4 326.5,-665.4"/>
+<text text-anchor="start" x="403.107" y="-672.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">Manufacturers of SDC Participants</text>
+<polygon fill="none" stroke="#000000" points="326.5,-569.4 326.5,-665.4 620.5,-665.4 620.5,-569.4 326.5,-569.4"/>
+<text text-anchor="start" x="398.7545" y="-654.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Places SDC device on market </text>
+<text text-anchor="start" x="377.212" y="-644.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Disclose System Function Contributions </text>
+<text text-anchor="start" x="375.859" y="-634.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Define necessary tests prior device usage </text>
+<text text-anchor="start" x="352.1025" y="-624.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Disclose all conditions for safe use and residual risks </text>
+<text text-anchor="start" x="378.0595" y="-614.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Conduct risk management </text>
+<text text-anchor="start" x="513.6755" y="-614.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">(ISO 14971) </text>
+<text text-anchor="start" x="566.4405" y="-614.4" font-family="Times,serif" font-size="10.00" fill="#000000"> </text>
+<text text-anchor="start" x="366.116" y="-604.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Conduct usability engineering </text>
+<text text-anchor="start" x="517.29" y="-604.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">(IEC 62366-1) </text>
+<text text-anchor="start" x="578.384" y="-604.4" font-family="Times,serif" font-size="10.00" fill="#000000"> </text>
+<text text-anchor="start" x="365.555" y="-594.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Assume PKP-Roles and fulfill SDC Standards </text>
+<text text-anchor="start" x="367.5205" y="-584.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Adhere to IHE Profiles for its medical device </text>
+<text text-anchor="start" x="341.2655" y="-574.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Support security analysis requirements </text>
+<text text-anchor="start" x="527.1405" y="-574.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">(ISO 81001-1)</text>
+<text text-anchor="start" x="585.7345" y="-574.4" font-family="Times,serif" font-size="10.00" fill="#000000">        </text>
+<polygon fill="none" stroke="#000000" points="326.5,-551.4 326.5,-569.4 620.5,-569.4 620.5,-551.4 326.5,-551.4"/>
+<text text-anchor="start" x="433.369" y="-558.4" font-family="Times,serif" font-size="10.00" fill="#000000">        </text>
+<text text-anchor="start" x="453.369" y="-558.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">UI Profile</text>
+<text text-anchor="start" x="493.631" y="-558.4" font-family="Times,serif" font-size="10.00" fill="#000000">        </text>
+<polygon fill="none" stroke="#000000" points="326.5,-509.4 326.5,-551.4 620.5,-551.4 620.5,-509.4 326.5,-509.4"/>
+<text text-anchor="start" x="330.0465" y="-539.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Provides machine readable UI Requirements for User Interfaces </text>
+<text text-anchor="start" x="335.7185" y="-527.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Incorporate risk management insights as design requirements </text>
+<text text-anchor="start" x="329.194" y="-515.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Incorporates error probability considerations with user tasks        </text>
+</g>
+<!-- Manufacturers&#45;&gt;Manufacturers -->
+<g id="edge9" class="edge">
+<title>Manufacturers:s-&gt;Manufacturers:c</title>
+<path fill="none" stroke="#000000" d="M473.5,-505.4C531.1667,-476.9 646.5,-476.9 646.5,-550.9 646.5,-564.6214 642.5346,-575.7986 635.7066,-584.7215"/>
+<polygon fill="#000000" stroke="#000000" points="632.9132,-582.5856 628.663,-592.2906 638.0376,-587.3543 632.9132,-582.5856"/>
+<text text-anchor="middle" x="677.6135" y="-679.5" font-family="Times,serif" font-size="9.00" fill="#000000">  </text>
+<text text-anchor="middle" x="677.6135" y="-518.7" font-family="Times,serif" font-size="9.00" fill="#000000">Design UI based </text>
+<text text-anchor="middle" x="677.6135" y="-507.9" font-family="Times,serif" font-size="9.00" fill="#000000"> on UI Profiles</text>
+</g>
+<!-- ResponsibleOrganizations -->
+<g id="node2" class="node">
+<title>ResponsibleOrganizations</title>
+<polygon fill="none" stroke="#000000" points="189.5,-436.4 189.5,-454.4 431.5,-454.4 431.5,-436.4 189.5,-436.4"/>
+<text text-anchor="start" x="212.066" y="-443.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">Responsible Organizations (Healthcare Provider)</text>
+<polygon fill="none" stroke="#000000" points="189.5,-360.4 189.5,-436.4 431.5,-436.4 431.5,-360.4 189.5,-360.4"/>
+<text text-anchor="start" x="216.1915" y="-425.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Operate and maintains healthcare facilities</text>
+<text text-anchor="start" x="195.782" y="-415.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Ensure Operation per Manufacturer’s specifications</text>
+<text text-anchor="start" x="192.164" y="-405.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Ensure Medical IT-Network meets SDC specifications</text>
+<text text-anchor="start" x="199.105" y="-395.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Conduct risk management for Medical IT-Network</text>
+<text text-anchor="start" x="201.044" y="-385.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Maintain security and manage risks</text>
+<text text-anchor="start" x="361.362" y="-385.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">(ISO 81001-1)</text>
+<text text-anchor="start" x="213.5495" y="-375.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Perform required tests by the manufacturers</text>
+<text text-anchor="start" x="202.558" y="-365.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Inform users about System Functions and risks    </text>
+<polygon fill="none" stroke="#000000" points="189.5,-342.4 189.5,-360.4 431.5,-360.4 431.5,-342.4 189.5,-342.4"/>
+<text text-anchor="start" x="236.363" y="-349.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">Medical IT-Network (Administrator)</text>
+<polygon fill="none" stroke="#000000" points="189.5,-288.4 189.5,-342.4 431.5,-342.4 431.5,-288.4 189.5,-288.4"/>
+<text text-anchor="start" x="192.5" y="-330.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Maintains Network Performance (Realtime, Wireless)</text>
+<text text-anchor="start" x="193.607" y="-318.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Ensure safe and secure operation of SDC Participants</text>
+<text text-anchor="start" x="229.017" y="-306.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Adheres to Healthcare IT Standards</text>
+<text text-anchor="start" x="218.999" y="-294.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Responsible for the ongoing operation    </text>
+</g>
+<!-- Manufacturers&#45;&gt;ResponsibleOrganizations -->
+<g id="edge1" class="edge">
+<title>Manufacturers:w-&gt;ResponsibleOrganizations</title>
+<path fill="none" stroke="#000000" d="M318.5,-596.4C263.9793,-596.4 266.4962,-529.603 280.0812,-468.7995"/>
+<polygon fill="#000000" stroke="#000000" points="283.5709,-469.2478 282.445,-458.7129 276.7556,-467.6505 283.5709,-469.2478"/>
+<text text-anchor="middle" x="329.4864" y="-479.1" font-family="Times,serif" font-size="9.00" fill="#000000">  List conditions for safe use</text>
+</g>
+<!-- IHE -->
+<g id="node6" class="node">
+<title>IHE</title>
+<polygon fill="none" stroke="#000000" points="244.5,-46 244.5,-64 532.5,-64 532.5,-46 244.5,-46"/>
+<text text-anchor="start" x="301.6005" y="-53" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">Integrating the Healthcare Enterprise (IHE)</text>
+<polygon fill="none" stroke="#000000" points="244.5,-4 244.5,-46 532.5,-46 532.5,-4 244.5,-4"/>
+<text text-anchor="start" x="248.511" y="-34" font-family="Times,serif" font-size="10.00" fill="#000000">    + Develops interoperability standards and profiles for healthcare IT</text>
+<text text-anchor="start" x="252.6515" y="-22" font-family="Times,serif" font-size="10.00" fill="#000000">    + Ensures SDC systems compatibility with healthcare IT systems</text>
+<text text-anchor="start" x="247.241" y="-10" font-family="Times,serif" font-size="10.00" fill="#000000">    + Organizes SDPi Plug-a-thons for testing library interoperability    </text>
+</g>
+<!-- Manufacturers&#45;&gt;IHE -->
+<g id="edge8" class="edge">
+<title>Manufacturers:e-&gt;IHE</title>
+<path fill="none" stroke="#000000" d="M628.5,-596.4C691.9747,-596.4 870.3112,-468.2391 610.5,-114.8 599.0227,-99.1866 565.7723,-84.0909 528.386,-71.258"/>
+<polygon fill="#000000" stroke="#000000" points="529.3965,-67.9054 518.8026,-68.0452 527.1715,-74.5424 529.3965,-67.9054"/>
+<text text-anchor="middle" x="748.1093" y="-252.9" font-family="Times,serif" font-size="9.00" fill="#000000">  Adheres to IHE Profiles</text>
+</g>
+<!-- SystemIntegrators -->
+<g id="node3" class="node">
+<title>SystemIntegrators</title>
+<polygon fill="none" stroke="#000000" points="8.5,-204.8 8.5,-222.8 287.5,-222.8 287.5,-204.8 8.5,-204.8"/>
+<text text-anchor="start" x="110.3715" y="-211.8" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">System Integrators</text>
+<polygon fill="none" stroke="#000000" points="8.5,-118.8 8.5,-204.8 287.5,-204.8 287.5,-118.8 8.5,-118.8"/>
+<text text-anchor="start" x="77.83" y="-193.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Place SDC Systems on market</text>
+<text text-anchor="start" x="81.8585" y="-183.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Provide information to users</text>
+<text text-anchor="start" x="42.294" y="-173.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Can use UI Profiles to reduce risks during usage</text>
+<text text-anchor="start" x="62.567" y="-163.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Implement IHE standards and profiles</text>
+<text text-anchor="start" x="50.0655" y="-153.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Assist with test and risk management efforts</text>
+<text text-anchor="start" x="11.0475" y="-143.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Application of </text>
+<text text-anchor="start" x="89.7285" y="-143.8" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">(ISO 81001-1)</text>
+<text text-anchor="start" x="148.3225" y="-143.8" font-family="Times,serif" font-size="10.00" fill="#000000">  for risk assesment and validation</text>
+<text text-anchor="start" x="20.2095" y="-133.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Assume part of Responsible Organizations' responsibilities</text>
+<text text-anchor="start" x="25.085" y="-123.8" font-family="Times,serif" font-size="10.00" fill="#000000">    + Verifies that stated conditions for safe use are fulfilled    </text>
+</g>
+<!-- ResponsibleOrganizations&#45;&gt;SystemIntegrators -->
+<g id="edge3" class="edge">
+<title>ResponsibleOrganizations:w-&gt;SystemIntegrators</title>
+<path fill="none" stroke="#000000" d="M181.5,-371.4C125.8199,-371.4 125.8185,-295.344 134.0387,-236.8943"/>
+<polygon fill="#000000" stroke="#000000" points="137.5087,-237.3551 135.5387,-226.945 130.5869,-236.3115 137.5087,-237.3551"/>
+<text text-anchor="middle" x="196.8591" y="-258.3" font-family="Times,serif" font-size="9.00" fill="#000000">  Delegate SDC System Integration</text>
+<text text-anchor="middle" x="196.8591" y="-247.5" font-family="Times,serif" font-size="9.00" fill="#000000">to a third-party provider</text>
+</g>
+<!-- Users -->
+<g id="node4" class="node">
+<title>Users</title>
+<polygon fill="none" stroke="#000000" points="321.5,-188.8 321.5,-206.8 594.5,-206.8 594.5,-188.8 321.5,-188.8"/>
+<text text-anchor="start" x="446.6175" y="-195.8" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">Users</text>
+<polygon fill="none" stroke="#000000" points="321.5,-134.8 321.5,-188.8 594.5,-188.8 594.5,-134.8 321.5,-134.8"/>
+<text text-anchor="start" x="355.6115" y="-176.8" font-family="Times,serif" font-size="10.00" fill="#000000">        + Informed about System Functions and risks </text>
+<text text-anchor="start" x="324.39" y="-164.8" font-family="Times,serif" font-size="10.00" fill="#000000">         + Expected to adhere to operating procedures and guidelines </text>
+<text text-anchor="start" x="340.4845" y="-152.8" font-family="Times,serif" font-size="10.00" fill="#000000">        + Participate in training provided by the organization </text>
+<text text-anchor="start" x="334.778" y="-140.8" font-family="Times,serif" font-size="10.00" fill="#000000">        + Uses provided System Functions by SDC devices        </text>
+</g>
+<!-- ResponsibleOrganizations&#45;&gt;Users -->
+<g id="edge4" class="edge">
+<title>ResponsibleOrganizations:e-&gt;Users</title>
+<path fill="none" stroke="#000000" d="M439.5,-371.4C499.8237,-371.4 487.0172,-280.2981 472.2503,-220.8822"/>
+<polygon fill="#000000" stroke="#000000" points="475.5659,-219.7227 469.6815,-210.9123 468.7873,-221.4693 475.5659,-219.7227"/>
+<text text-anchor="middle" x="499.2458" y="-252.9" font-family="Times,serif" font-size="9.00" fill="#000000">  Training</text>
+</g>
+<!-- SystemIntegrators&#45;&gt;ResponsibleOrganizations -->
+<g id="edge5" class="edge">
+<title>SystemIntegrators-&gt;ResponsibleOrganizations</title>
+<path fill="none" stroke="#000000" d="M247.298,-226.8689C253.5501,-232.4537 259.3765,-238.434 264.5,-244.8 271.831,-253.9089 278.0532,-264.289 283.3199,-275.0963"/>
+<polygon fill="#000000" stroke="#000000" points="280.1713,-276.6269 287.5226,-284.2564 286.5336,-273.7078 280.1713,-276.6269"/>
+<text text-anchor="middle" x="318.6136" y="-252.9" font-family="Times,serif" font-size="9.00" fill="#000000">  Configures Network</text>
+</g>
+<!-- SystemIntegrators&#45;&gt;IHE -->
+<g id="edge7" class="edge">
+<title>SystemIntegrators-&gt;IHE</title>
+<path fill="none" stroke="#000000" d="M255.0673,-109.7411C276.9533,-97.3178 299.415,-84.5677 319.5196,-73.1557"/>
+<polygon fill="#000000" stroke="#000000" points="253.1881,-106.7831 246.2193,-114.7635 256.6437,-112.8708 253.1881,-106.7831"/>
+<polygon fill="#000000" stroke="#000000" points="321.3117,-76.163 328.2805,-68.1827 317.8561,-70.0754 321.3117,-76.163"/>
+<text text-anchor="middle" x="345.9848" y="-88.7" font-family="Times,serif" font-size="9.00" fill="#000000">  Implement IHE standards</text>
+</g>
+<!-- GovernanceBody -->
+<g id="node5" class="node">
+<title>GovernanceBody</title>
+<polygon fill="none" stroke="#000000" points="252.5,-798.4 252.5,-816.4 453.5,-816.4 453.5,-798.4 252.5,-798.4"/>
+<text text-anchor="start" x="274.414" y="-805.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">The Governance Body (Notified Body)</text>
+<polygon fill="none" stroke="#000000" points="252.5,-744.4 252.5,-798.4 453.5,-798.4 453.5,-744.4 252.5,-744.4"/>
+<text text-anchor="start" x="270.196" y="-786.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Ensure principles implementation </text>
+<text text-anchor="start" x="255.061" y="-774.4" font-family="Times,serif" font-size="10.00" fill="#000000">         + Manage and maintain system documents </text>
+<text text-anchor="start" x="298.1065" y="-762.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Address complaints </text>
+<text text-anchor="start" x="260.631" y="-750.4" font-family="Times,serif" font-size="10.00" fill="#000000">        + Define conformance requirements        </text>
+</g>
+<!-- GovernanceBody&#45;&gt;Manufacturers -->
+<g id="edge6" class="edge">
+<title>GovernanceBody-&gt;Manufacturers</title>
+<path fill="none" stroke="#000000" d="M379.054,-740.0204C387.6825,-726.8994 397.673,-711.7072 407.8593,-696.2173"/>
+<polygon fill="#000000" stroke="#000000" points="410.9608,-697.8708 413.531,-687.5925 405.1121,-694.0247 410.9608,-697.8708"/>
+<text text-anchor="middle" x="401.75" y="-708.3" font-family="Times,serif" font-size="9.00" fill="#000000">  </text>
+</g>
+<!-- Library_manufacturer -->
+<g id="node7" class="node">
+<title>Library_manufacturer</title>
+<polygon fill="none" stroke="#000000" points="487.5,-804.4 487.5,-822.4 703.5,-822.4 703.5,-804.4 487.5,-804.4"/>
+<text text-anchor="start" x="535.9295" y="-811.4" font-family="Times,serif" font-weight="bold" font-size="10.00" fill="#000000">SDC Software Stack Supplier</text>
+<polygon fill="none" stroke="#000000" points="487.5,-738.4 487.5,-804.4 703.5,-804.4 703.5,-738.4 487.5,-738.4"/>
+<text text-anchor="start" x="517.701" y="-792.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Provides easy-to-use SDC Library</text>
+<text text-anchor="start" x="516.5905" y="-780.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Supports FMEA for manufacturers</text>
+<text text-anchor="start" x="497.287" y="-768.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Provides parts of accompanying information</text>
+<text text-anchor="start" x="490.061" y="-756.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Assists in security analysis and threat modelling</text>
+<text text-anchor="start" x="508.946" y="-744.4" font-family="Times,serif" font-size="10.00" fill="#000000">    + Provides support for functional tests    </text>
+</g>
+<!-- Library_manufacturer&#45;&gt;Manufacturers -->
+<g id="edge2" class="edge">
+<title>Library_manufacturer-&gt;Manufacturers</title>
+<path fill="none" stroke="#000000" d="M564.7142,-733.969C557.0129,-722.3539 548.4519,-709.4423 539.7474,-696.3141"/>
+<polygon fill="#000000" stroke="#000000" points="542.4573,-694.0675 534.0141,-687.6672 536.6232,-697.9358 542.4573,-694.0675"/>
+<text text-anchor="middle" x="588.366" y="-708.3" font-family="Times,serif" font-size="9.00" fill="#000000">   Provides Library </text>
+</g>
+</g>
+</svg>
